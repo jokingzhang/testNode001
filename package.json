@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "forever-monitor": "^1.7.1"
+  }
+}
